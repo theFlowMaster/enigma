@@ -1,2 +1,2 @@
-# enigma simulator
-enigma simulator in kotlin
+# Enigma Simulator
+Enigma Simulator written by Kotlin
